@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "312CA39F-498D-4070-9EE3-D8DEC5144FC1"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A07F432-BD7E-495E-BD66-EFD49D555BE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RUTRUX/controller/iniciarsesionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "iniciarsesionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "4A07F432-BD7E-495E-BD66-EFD49D555BE2 - 456d844240dc3b4c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.emailTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "4A07F432-BD7E-495E-BD66-EFD49D555BE2 - 6d16645e8b1e44b8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.emailTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "4A07F432-BD7E-495E-BD66-EFD49D555BE2 - 36739f21d5089e49"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.emailTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "4A07F432-BD7E-495E-BD66-EFD49D555BE2 - ffcf380d8bda171b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.emailTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "4A07F432-BD7E-495E-BD66-EFD49D555BE2 - 625148b86877aca6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RUTRUX.iniciarsesionViewController"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "4A07F432-BD7E-495E-BD66-EFD49D555BE2 - 7a6c5a999d4aa849"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RUTRUX.iniciarsesionViewController&gt;"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C88E4430-4CD8-4BEE-B876-9D4B28B7521A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RUTRUX/controller/iniciarsesionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "iniciarsesionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C88E4430-4CD8-4BEE-B876-9D4B28B7521A - 456d844240dc3b4c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.emailTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "C88E4430-4CD8-4BEE-B876-9D4B28B7521A - 6d16645e8b1e44b8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.emailTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "C88E4430-4CD8-4BEE-B876-9D4B28B7521A - 36739f21d5089e49"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.emailTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "C88E4430-4CD8-4BEE-B876-9D4B28B7521A - ffcf380d8bda171b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.emailTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "C88E4430-4CD8-4BEE-B876-9D4B28B7521A - 625148b86877aca6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RUTRUX.iniciarsesionViewController"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "C88E4430-4CD8-4BEE-B876-9D4B28B7521A - 7a6c5a999d4aa849"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RUTRUX.iniciarsesionViewController&gt;"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F3BF733-38F7-4DA1-B758-E6088F3D4BB3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RUTRUX/controller/iniciarsesionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "iniciarsesionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0F3BF733-38F7-4DA1-B758-E6088F3D4BB3 - 625148b86877aca6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RUTRUX.iniciarsesionViewController"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "0F3BF733-38F7-4DA1-B758-E6088F3D4BB3 - 7a6c5a999d4aa849"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RUTRUX.iniciarsesionViewController&gt;"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B447C03-C5BC-42AA-B7C1-AB7FCA497380"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RUTRUX/controller/iniciarsesionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "iniciarsesionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8B447C03-C5BC-42AA-B7C1-AB7FCA497380 - 4ea074d752f14d4f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RUTRUX.iniciarsesionViewController"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "8B447C03-C5BC-42AA-B7C1-AB7FCA497380 - 625148b86877aca6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RUTRUX.iniciarsesionViewController"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "8B447C03-C5BC-42AA-B7C1-AB7FCA497380 - f7eac82d4d942546"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RUTRUX.iniciarsesionViewController&gt;"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "8B447C03-C5BC-42AA-B7C1-AB7FCA497380 - 7a6c5a999d4aa849"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RUTRUX.iniciarsesionViewController&gt;"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "8B447C03-C5BC-42AA-B7C1-AB7FCA497380 - a8eb006120a2e786"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RUTRUX.iniciarsesionViewController.__deallocating_deinit"
+                  moduleName = "RUTRUX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reynaldoperaltamarquez/Desktop/PMA/RUTRUX/RUTRUX/controller/iniciarsesionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "636AE37E-6057-4528-AD61-0671445556A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RUTRUX/controller/iniciarsesionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
